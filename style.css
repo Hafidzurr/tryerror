@@ -13,7 +13,14 @@
 .content{
     margin-top: 25px;
     width: 1505px;
-    height: 500px;
+    height: 750px;
     background: blue;
 
+}
+
+.footer{
+    margin-top: 25px;
+    width: 1505px;
+    height: 100px;
+    background: black;
 }
