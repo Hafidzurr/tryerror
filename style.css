@@ -9,3 +9,11 @@
     height: 100px;
     background: black;
 }
+
+.content{
+    margin-top: 25px;
+    width: 1505px;
+    height: 500px;
+    background: blue;
+
+}
